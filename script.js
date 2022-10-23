@@ -37,7 +37,7 @@ const music_list = [
         img : 'images/faded.png',
         name : 'Faded',
         artist : 'Alan Walker',
-        music : 'music/Faded.mp3'
+        music : 'music/faded.mp3'
     },
     {
         img : 'images/ratherbe.jpg',
