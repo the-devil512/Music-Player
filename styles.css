@@ -15,18 +15,16 @@
 .hov:hover{
   transform: scale(1.2);
 }
-.buttons{
-  padding-top: 25px;
-  text-align: center;
-}
-.sm-but{
-  display: inline-block;
-  margin: auto 20px;
-}
+
 .but{
   position: relative;
-  bottom: 18px;
+  top: 20px;
 }
+.col{
+    display: inline-block;
+    width: 30%;
+}
+
 .track-name{
   font-size: 250%;
   line-height: 1.4;
@@ -47,9 +45,6 @@
   width: 300px;
   height: 300px;
   margin: auto;
-  border-radius: 100%;
-}
-img{
   border-radius: 100%;
 }
 .time{
