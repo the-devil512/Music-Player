@@ -51,5 +51,8 @@
   display: inline-block;
 }
 .seek_slider{
-  width: 30%;
+  width: 50%;
+}
+.volume_slider{
+  width: 20%;
 }
