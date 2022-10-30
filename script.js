@@ -30,7 +30,7 @@ const music_list = [
     {
         img : 'images/fallingdown.jpg',
         name : 'Falling Down',
-        artist : 'Wid Cards',
+        artist : 'Wild Cards',
         music : 'music/fallingdown.mp3'
     },
     {
